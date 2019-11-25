@@ -1,3 +1,5 @@
+%Compare algorithms for given problem data (matrix A and max gamma), and different values of gamma
+
 clc, clear, close all
 
 Solver options
